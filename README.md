@@ -7,6 +7,6 @@
  3.Debugging Code
 Solutions
 1.Youtube
-2.Gemimi AI
+2.Gemini AI
 
  
